@@ -99,6 +99,9 @@ nav{
     justify-content: center;
     flex-direction: column;
     align-items: center;
+    max-width: 600px;
+    margin: 0 auto;
+    text-align: center;
 }
 
 .about-me__picture--mask{
@@ -117,4 +120,13 @@ nav{
     transform: scale(1.3);
     padding-top: 6px;
     padding-left: 10px;
+}
+
+.about-me__info--title{
+    margin-bottom: 16px;
+}
+
+.about-me__info--para{
+    font-size: 20px;
+    margin-bottom: 28px;
 }
