@@ -210,3 +210,9 @@ nav{
     transform: scale(1);
     opacity: 1;
 }
+
+/* Projects Section */
+
+.project__img{
+    width: 100%;
+}
